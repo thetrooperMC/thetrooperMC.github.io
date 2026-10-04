@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+.container {
+  display: flex;
+  justify-content: center; /* horizontal */
+  align-items: center;     /* vertical */
+  height: 100vh;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+#body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: "Ranchers", sans-serif;
+
+
+}
+
+#recipient-name {
+  font-size: 2em;
+  margin-top: 1px;
+  color: #000000; /* Gold color */
+  background-color: #fafafa; /* Black background */
+  border-radius: 50px; /* Rounded corners */
+  border-color: #742626; /* Gold border */
+  display: flex;
+  justify-content: center;
+ 
+}
